@@ -1,5 +1,5 @@
  ;@echo off
-; rem https://github.com/Ronak83s/Bat-To-Exe/blob/main/compiler.cmd
+; rem https://github.com/Ronak83s/Bat-To-Exe/blob/main/compiler.bat
 ;if "%~2" equ "" (
 ; echo usage: %~nx0 batFile.bat target.Exe
 ;)
